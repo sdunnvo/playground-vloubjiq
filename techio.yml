@@ -1,4 +1,4 @@
-title: Node Mailer SMTP Gmail Project
+title: NMailerSMTP
 plan:
 - title: SMTP this
   statement: markdowns/welcome.md
