@@ -8,7 +8,7 @@ function countAllStars(galaxies) {
     totalStars += stars; // fix me
   }, this);
 
-  var reducted = _.reduce(galaxies, (iter, accum) => { return (acum + iter) }, 0);
+  var reducted = _.reduce(galaxies, function (iter, accum) { return (acum + iter); }, 0);
   console.log("\n\n----------\nREDUCTED calulations :: " + reducted);
   
   console.log("Final calulations :: " + totalStars);
