@@ -1,6 +1,8 @@
-# Welcome!
+# NodeMailer SMTP Gmail - Bem vindo!
 
-This Nodejs template lets you get started quickly with a simple working example using npm. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+In addition to testing `nodemailer` with Gmail SMTP relay configuration, 
+
+this Nodejs template lets you get started quickly with a simple working example using npm. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
 
 
 The source code is on [GitHub](https://github.com/TechDotIO/nodejs-template), please feel free to come up with proposals to improve it.
