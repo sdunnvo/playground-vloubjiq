@@ -1,6 +1,6 @@
-title: Node.js Project
+title: Node Mailer SMTP Gmail Project
 plan:
-- title: Welcome
+- title: SMTP this
   statement: markdowns/welcome.md
 projects:
   nodejs:
