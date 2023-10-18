@@ -1,7 +1,9 @@
 const _ = require('lodash');
 const nodemailr = require('nodemailer');
+const ebody = '<html><body><div id="nodelyMail" style="border: solid 5px green; width:90%; height:40%;"></div></body></html>'
 
 function countAllStars(galaxies) {
+  console.log("Email HTML = "\n\n" + ebody);
   console.log("\n\n--> All the Galaticals :: " + galaxies);
   var totalStars = 0;
   
