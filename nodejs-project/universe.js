@@ -1,4 +1,5 @@
 const _ = require('lodash');
+const nodemailr = require('nodemailer');
 
 function countAllStars(galaxies) {
   console.log("\n\n--> All the Galaticals :: " + galaxies);
