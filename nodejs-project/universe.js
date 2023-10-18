@@ -1,4 +1,4 @@
-const _ = require('lodash');
+// const _ = require('lodash');
 
 function countAllStars(galaxies) {
   console.log("\n\n--> All the Galaticals :: " + galaxies);
